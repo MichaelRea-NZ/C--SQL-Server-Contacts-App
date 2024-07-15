@@ -1,0 +1,1 @@
+This is an example of a C# Windows Form application connected to a Microsoft SQL Server database. MSDN documentation was followed for naming variables. The application creates, reads, updates, and deletes. This is shown in a video at https://youtu.be/JG7GlAZpV80
