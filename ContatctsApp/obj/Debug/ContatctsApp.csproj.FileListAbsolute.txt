@@ -1,0 +1,10 @@
+D:\Documents\HomeProjects\Contacts\ContatctsApp\bin\Debug\ContatctsApp.exe.config
+D:\Documents\HomeProjects\Contacts\ContatctsApp\bin\Debug\ContatctsApp.exe
+D:\Documents\HomeProjects\Contacts\ContatctsApp\bin\Debug\ContatctsApp.pdb
+D:\Documents\HomeProjects\Contacts\ContatctsApp\obj\Debug\ContatctsApp.csproj.AssemblyReference.cache
+D:\Documents\HomeProjects\Contacts\ContatctsApp\obj\Debug\ContatctsApp.NewContactForm.resources
+D:\Documents\HomeProjects\Contacts\ContatctsApp\obj\Debug\ContatctsApp.Properties.Resources.resources
+D:\Documents\HomeProjects\Contacts\ContatctsApp\obj\Debug\ContatctsApp.csproj.GenerateResource.cache
+D:\Documents\HomeProjects\Contacts\ContatctsApp\obj\Debug\ContatctsApp.csproj.CoreCompileInputs.cache
+D:\Documents\HomeProjects\Contacts\ContatctsApp\obj\Debug\ContatctsApp.exe
+D:\Documents\HomeProjects\Contacts\ContatctsApp\obj\Debug\ContatctsApp.pdb
